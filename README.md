@@ -188,3 +188,4 @@ getBreadcrumbs({
   options: Object<Options>,
 }): Array<Breadcrumb>
 ```
+
